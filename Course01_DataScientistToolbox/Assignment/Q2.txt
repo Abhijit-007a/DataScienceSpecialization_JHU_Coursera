@@ -1,0 +1,11 @@
+Link to Repository :
+-------------------------
+https://github.com/Abhijit-007a/DataScienceSpecialization_JHU_Coursera.git
+
+Name of Repository :
+---------------------------
+DataScienceSpecialization_JHU_Coursera
+
+Description :
+-----------------
+This repository contains all the assignment given to me while doing my Data Science specialization course in R programming language from John Hopkins University, Coursera
